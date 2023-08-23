@@ -8,3 +8,4 @@ Reg no: 23122039
 
 Class: MScDSA
 
+Email: sukanna.das@msds.christuniversity.in
